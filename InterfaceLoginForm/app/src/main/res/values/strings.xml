@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Register Form</string>
+    <string name="signin_text">Already have an account? <font color="#2196F3">Sign in</font></string>
+    <string name="signup_text">Tidak Punya Akun? <font color="#2196F3">Sign up</font></string>
+</resources>
